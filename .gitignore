@@ -11,6 +11,8 @@
 # .tfplan files
 *.tfplan
 *.plan
-
+git
 # .pem files
 *.pem
+
+backend_local.tf
