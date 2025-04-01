@@ -20,7 +20,7 @@ variable "environment" {
   default     = "dev"
 }
 
-variable "billing_Code" {
+variable "billing_code" {
   type        = string
   description = "(Optional) Billing code for all resources"
 }
